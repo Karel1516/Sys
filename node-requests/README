@@ -1,0 +1,12 @@
+
+<!-- Este es un proyecto node.js 
+que hace peticiones a una API de prueba para obtener datos de usuarios, posts y comentarios.
+y conocer las diferencias entre fetch, ajax y axios.
+
+se ejecuta de la siguiente manera:
+
+1. Clonar el repositorio
+2. Instalar las dependencias con npm install
+3. Ejecutar el archivo index.js con:
+    npm start
+-->
